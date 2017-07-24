@@ -7,16 +7,16 @@
     "dialect": "postgres"
   },
   "test": {
-    "username": "postgre",
+    "username": "postgres",
     "password": "oyinade",
-    "database": "database_test",
+    "database": "todo",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "username": "postgre",
+    "username": "postgres",
     "password": "oyinade",
-    "database": "database_production",
+    "database": "todo",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
